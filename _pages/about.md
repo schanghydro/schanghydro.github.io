@@ -19,4 +19,4 @@ In my research, I strive to produce datasets and develop both process-based mode
 
 [Jun 2024] I served as the science lead and co-organized with Dr. Kimberly Van Meter the [Chesapeake Water Summer Institute](https://www.psu.edu/news/earth-and-mineral-sciences/story/wetlands-water-quality-chesapeake-bay-focus-van-meter-nsf-career) at the Pennsylvania State University. This two-week summer institute has successfully concluded. Our students gave a talk at the Chesapeake Community Research Symposium '24, in Annapolis, MD. Thanks everyone!
 
-[Jun 2024] Hello World. Woo-hoo setting up my first personal website 🥳.
+[Hello World] Woo-hoo! Setting up my first personal website 🥳.
