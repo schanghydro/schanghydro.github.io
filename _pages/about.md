@@ -15,7 +15,7 @@ In my research, I strive to produce datasets and develop both process-based mode
 
 
 ## News
-[Sep 2024] My first-authored paper "The geometry of flow: Advancing predictions of river geometry with multi-model machine learning" was accepted to Water Resources Research. The preprint is available at [[arXiv: 2312.11476](https://arxiv.org/abs/2312.11476)]
+[Sep 2024] My first-author paper "The geometry of flow: Advancing predictions of river geometry with multi-model machine learning" was accepted to Water Resources Research. The preprint is available at [[arXiv: 2312.11476](https://arxiv.org/abs/2312.11476)]
 
 [Jun 2024] I served as the science lead and co-organized with Dr. Kimberly Van Meter the [Chesapeake Water Summer Institute](https://www.psu.edu/news/earth-and-mineral-sciences/story/wetlands-water-quality-chesapeake-bay-focus-van-meter-nsf-career) at the Pennsylvania State University. This two-week summer institute has successfully concluded. Our students gave a talk at the Chesapeake Community Research Symposium '24, in Annapolis, MD. Thanks everyone!
 
