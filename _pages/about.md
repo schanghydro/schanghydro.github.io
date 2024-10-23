@@ -15,6 +15,8 @@ In my research, I strive to produce datasets and develop both process-based mode
 
 
 ## News
+[Oct 2024] My first-author paper "The geometry of flow", accepted to Water Resources Research, is now officially pressed at [[DOI: doi.org/10.1029/2023WR036733](https://doi.org/10.1029/2023WR036733)]
+
 [Oct 2024] My first-author manuscript, titled "Advancing Arctic River Temperature Predictions Using a Deep Learning Approach", is now available as a preprint at [[DOI: 10.22541/au.172745845.52823366/v1](https://doi.org/10.22541/au.172745845.52823366/v1)]
 
 [Sep 2024] My first-author paper "The geometry of flow: Advancing predictions of river geometry with multi-model machine learning" was accepted to Water Resources Research. The preprint is available at [[arXiv: 2312.11476](https://arxiv.org/abs/2312.11476)]
