@@ -1,23 +1,26 @@
 # main links links
 main:
-#  - title: "Research"
-#    url: /research/
-
+  - title: "CV"
+    url: /files/chang-cv.pdf
+    
   - title: "Publications"
     url: /publications/
+
+#  - title: "Research"
+#    url: /research/
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Service"
-    url: /service/ 
+  # - title: "Service"
+  #   url: /service/ 
  
   - title: "Awards"
     url: /awards/ 
   
   - title: "Gallery & Media"
     url: /gallery/  
+    
   
-  - title: "CV"
-    url: /files/chang-cv.pdf
+  
                 
