@@ -9,7 +9,7 @@ author_profile: false
 All papers are available upon request  
 *\*Indicates co-first authors*
 ## Journal Articles
-- **Chang, S. Y.**, Ghahremani, Z., Manuel, L., Erfani, M., Shen, C., Cohen, S., Van Meter, K. J., Pierce, J. L., Meselha, Ehab., Goharian, E. (2024). The geometry of flow: Advancing predictions of river geometry with multi-model machine learning. *Water Resources Research*, *60*, e2023WR036733. [[DOI: 10.1029/2023WR036733](https://doi.org/10.1029/2023WR036733)]
+- **Chang, S. Y.**, Ghahremani, Z., Manuel, L., Erfani, M., Shen, C., Cohen, S., Van Meter, K. J., Pierce, J. L., Meselha, Ehab., Goharian, E. (2024). The geometry of flow: Advancing predictions of river geometry with multi-model machine learning. *Water Resources Research*, *60*(10), 036733. [[DOI: 10.1029/2023WR036733](https://doi.org/10.1029/2023WR036733)]
 - **Chang, S. Y.**, Zhang, Q., Byrnes, D. K., Basu, N. B., & Van Meter, K. J. (2021). Chesapeake legacies: The importance of legacy nitrogen to improving Chesapeake Bay water quality. *Environmental Research Letters*, *16*(8), 085002.  [[DOI: 10.1088/1748-9326/ac0d7b](https://iopscience.iop.org/article/10.1088/1748-9326/ac0d7b)]
 - Van Meter, K. J., Schultz, V. O., & **Chang, S. Y.** (2023). Data-driven approaches demonstrate legacy N accumulation in Upper Mississippi River Basin groundwater**.** *Environmental Research Letters*, *18*(9), 094016. [[DOI: 10.1088/1748-9326/acea34](https://iopscience.iop.org/article/10.1088/1748-9326/acea34/meta)]
 
