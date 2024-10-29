@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shuyu, a PhD candidate in Geography and NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow at the [Pennsylvania State University (PSU)](https://www.psu.edu/), advised by [Dr. Kimberly Van Meter](https://www.geog.psu.edu/directory/kimberly-van-meter). I am expected to graduate in Spring 2025. Before my PhD study, I obtained my MSE in Water Resources Engineering from [Johns Hopkins University](https://www.jhu.edu/) and BS in Hydraulic and Hydropower Engineering with Highest Honours from the [China Agricultural University](https://en.cau.edu.cn/).
+Hi! I'm Shuyu, a PhD candidate in Geography and NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow at the Pennsylvania State University, advised by [Dr. Kimberly Van Meter](https://www.geog.psu.edu/directory/kimberly-van-meter). I am expected to graduate in Spring 2025. Before my PhD study, I obtained my MSE in Water Resources Engineering from Johns Hopkins University and BS in Hydraulic and Hydropower Engineering with Highest Honours from the China Agricultural University. Here is my [CV](https://schanghydro.github.io/files/chang-cv.pdf).
 
 In my research, I strive to produce datasets and develop both process-based models and data-driven approaches to better quantify and enhance our understanding of the interactions and dynamics between hydrology and biogeochemistry, with the goal of supporting decision-making regarding water resources at various scales.
 
