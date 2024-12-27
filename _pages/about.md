@@ -17,6 +17,9 @@ In my research, I strive to produce datasets and develop both process-based mode
 - **Chang, S. Y.**, Zhang, Q., Byrnes, D. K., Basu, N. B., & Van Meter, K. J. (2021). Chesapeake legacies: The importance of legacy nitrogen to improving Chesapeake Bay water quality. *Environmental Research Letters*, *16*(8), 085002.  [[DOI: 10.1088/1748-9326/ac0d7b](https://iopscience.iop.org/article/10.1088/1748-9326/ac0d7b)]
 
 ## News
+[Dec 2024] I went to AGU '24 in Washington DC. I gave an oral presentation and a poster presentation, met old friends, and made new connections!  
+<img src="../files/image2.png" alt="AGU2024 Alaska River Temperature Talk"      width="400"     title="Alaska River Temperature Talk @ AGU 2024"/>     <img src="../files/image1.png" alt="AGU2024 Water Quality Dataset"    width="326.6620014"    title="Water Quality Dataset Poster @ AGU 2024"/>
+
 [Oct 2024] I visited Franklin & Marshall College and delivered a guest lecture on "Dam and Nutrients in the Chesapeake Bay Watershed" 🎓
 
 [Oct 2024] My first-author paper "The geometry of flow: Advancing predictions of river geometry with multi-model machine learning", accepted to Water Resources Research, is now officially pressed at [[DOI: doi.org/10.1029/2023WR036733](https://doi.org/10.1029/2023WR036733)]
