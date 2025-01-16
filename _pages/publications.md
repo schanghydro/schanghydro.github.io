@@ -14,8 +14,8 @@ All papers are available upon request
 - Van Meter, K. J., Schultz, V. O., & **Chang, S. Y.** (2023). Data-driven approaches demonstrate legacy N accumulation in Upper Mississippi River Basin groundwater**.** *Environmental Research Letters*, *18*(9), 094016. [[DOI: 10.1088/1748-9326/acea34](https://iopscience.iop.org/article/10.1088/1748-9326/acea34/meta)]
 
 ## Under Review/Revision
-- **Chang, S. Y.\***, Byrnes, D.K.\*, Basu, N.B., Van Meter, K. J. (Submitted 08/2024). gTREND-Nitrogen - Long-term nitrogen mass balance data for the contiguous United States (1930-2017). *Scientific Data*.
-- **Chang, S. Y.**, Schwenk, J., Solander, K. (Submitted 09/2024). Advancing Arctic River Temperature Predictions Using a Deep Learning Approach. *Water Resources Research*. [[DOI: 10.22541/au.172745845.52823366/v1](https://doi.org/10.22541/au.172745845.52823366/v1)]
+- **Chang, S. Y.\***, Byrnes, D.K.\*, Basu, N.B., Van Meter, K. J. (under revision 01/2025). gTREND-Nitrogen - Long-term nitrogen mass balance data for the contiguous United States (1930-2017). *Scientific Data*.
+- **Chang, S. Y.**, Schwenk, J., Solander, K. (revision submitted 01/2025). Advancing Arctic River Temperature Predictions Using a Deep Learning Approach. *Water Resources Research*. [[DOI: 10.22541/au.172745845.52823366/v1](https://doi.org/10.22541/au.172745845.52823366/v1)]
 
 ## Manuscripts (in prep.)
 - **Chang, S. Y.**, Zhang Q., Basu, N.B., Van Meter, K. J. Past Trajectories and Future Horizon: the Ecological functions of the Reservoirs Systems in Chesapeake Bay. Will be submitted to *Earth’s Future*
