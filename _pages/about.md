@@ -17,10 +17,13 @@ In my research, I strive to produce datasets and develop both process-based mode
 - **Chang, S. Y.**, Zhang, Q., Byrnes, D. K., Basu, N. B., & Van Meter, K. J. (2021). Chesapeake legacies: The importance of legacy nitrogen to improving Chesapeake Bay water quality. *Environmental Research Letters*, *16*(8), 085002.  [[DOI: 10.1088/1748-9326/ac0d7b](https://iopscience.iop.org/article/10.1088/1748-9326/ac0d7b)]
 
 ## News
-[Feb 2025] I attended and delivered a talk in Chesapeake Bay AI/ML Workshop at the Smithsonian Environmental Research Center (SERC), Edgewater, MD.
+[Feb 2025] I was awraded the AGU'24 Outstanding Student Presentation Award (OSPA). Checkout our pre-printed manuscript here ~ [[DOI: 10.22541/au.172745845.52823366/v1](https://doi.org/10.22541/au.172745845.52823366/v1)] 🥳
 
-[Jan 2025] I attended and presented at the American Meteorological Society (AMS) Annual Meeting in New Orleans for the first time. Bonus: got to hang out with old friends!  
-<img src="../files/AMS1.jpeg" alt="AMS2025 Talk"      width="300"     title="Large-sample CONUS-scale predictions of water quality @ AMS2025"/>  <img src="../files/AMS2.jpeg" alt="Old friends at New Orleans"    width="300"    title="Old friends at New Orleans"/>
+<a href="https://doi.org/10.22541/au.172745845.52823366/v1"><img src="../files/image2.png" alt="AGU2024 Alaska River Temperature Talk"      width="400"     title="Alaska River Temperature Talk @ AGU 2024"/></a>
+
+[Feb 2025] I attended and delivered a talk in Chesapeake Bay AI/ML Workshop at the Smithsonian Environmental Research Center (SERC).
+
+[Jan 2025] I attended and presented at the American Meteorological Society (AMS) Annual Meeting in New Orleans for the first time. 
 
 [Dec 2024] I went to AGU '24 in Washington DC. I gave an oral presentation and a poster presentation, met old friends, and made new connections! 
 
