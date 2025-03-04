@@ -23,6 +23,8 @@ In my research, I strive to produce datasets and develop both process-based mode
 
 [Feb 2025] I attended and delivered a talk in Chesapeake Bay AI/ML Workshop at the Smithsonian Environmental Research Center (SERC).
 
+[Feb 2025] I delivered a departimental seminar to the Department of Civil & Environmental Engineering at Penn State.
+
 [Jan 2025] I attended and presented at the American Meteorological Society (AMS) Annual Meeting in New Orleans for the first time. 
 
 [Dec 2024] I went to AGU '24 in Washington DC. I gave an oral presentation and a poster presentation, met old friends, and made new connections! 
