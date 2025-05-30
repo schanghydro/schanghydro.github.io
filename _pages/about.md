@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shuyu, a PhD candidate in Geography and NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow at the Pennsylvania State University, advised by [Dr. Kimberly Van Meter](https://www.geog.psu.edu/directory/kimberly-van-meter). I am expected to graduate in Spring 2025. Before my PhD study, I obtained my MSE in Water Resources Engineering from Johns Hopkins University and BS in Hydraulic and Hydropower Engineering with Highest Honours from the China Agricultural University. Here is my [CV](https://schanghydro.github.io/files/chang-cv.pdf).
+Hi! I'm Shuyu, a PhD candidate in Geography and NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow at the Pennsylvania State University, advised by [Dr. Kimberly Van Meter](https://www.geog.psu.edu/directory/kimberly-van-meter). I am expected to graduate in Summer 2025. Before my PhD study, I obtained my MSE in Water Resources Engineering from Johns Hopkins University and BS in Hydraulic and Hydropower Engineering with Highest Honours from the China Agricultural University. Here is my [CV](https://schanghydro.github.io/files/chang-cv.pdf).
 
 In my research, I strive to produce datasets and develop both process-based models and data-driven approaches to better quantify and enhance our understanding of the interactions and dynamics between hydrology and biogeochemistry, with the goal of supporting decision-making regarding water resources at various scales.
 
 ## Selected Publications
-- **Chang, S. Y.**, Schwenk, J., Solander, K. (In Press, 2025). Advancing Arctic River Temperature Predictions Using a Deep Learning Approach. *Water Resources Research*. [[DOI: 10.22541/au.172745845.52823366/v1](https://doi.org/10.22541/au.172745845.52823366/v1)]
+- **Chang, S. Y.**, Schwenk, J., Solander, K. (2025). Deep Learning Advances Arctic River Water Temperature Predictions. *Water Resources Research*, *61*(6), 039053. [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053)]
 - **Chang, S. Y.**, Zhang, Q., Byrnes, D. K., Basu, N. B., & Van Meter, K. J. (2021). Chesapeake legacies: The importance of legacy nitrogen to improving Chesapeake Bay water quality. *Environmental Research Letters*, *16*(8), 085002.  [[DOI: 10.1088/1748-9326/ac0d7b](https://iopscience.iop.org/article/10.1088/1748-9326/ac0d7b)]
 
 ## News
