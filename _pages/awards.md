@@ -29,6 +29,7 @@ author_profile: false
 
 # Awards
 
+- AGU Outstanding Student Presentation Award (OSPA), 2024.
 - Best Presentation in the Earth and Space Sciences Division, Los Alamos National Laboratory Student Symposium, 2023  
 - Second Place, College of Earth and Mineral Sciences Graduate Student Research Showcase, Pennsylvania State University, 2022  
 - First Place of Ph.D. Proposal, E. Willard Miller Award in Geography, Pennsylvania State University, 2022  
