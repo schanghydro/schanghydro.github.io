@@ -17,7 +17,10 @@ In my research, I strive to produce datasets and develop both process-based mode
 - **Chang, S. Y.**, Zhang, Q., Byrnes, D. K., Basu, N. B., & Van Meter, K. J. (2021). Chesapeake legacies: The importance of legacy nitrogen to improving Chesapeake Bay water quality. *Environmental Research Letters*, *16*(8), 085002.  [[DOI: 10.1088/1748-9326/ac0d7b](https://iopscience.iop.org/article/10.1088/1748-9326/ac0d7b)]
 
 ## News
-[Feb 2025] I was awraded the AGU'24 Outstanding Student Presentation Award (OSPA). Checkout our paper here ~ [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053) 🥳
+[May 2025]The work I led with my mentors, Kurt and Jon, during my Applied Machine Learning Internship at Los Alamos National Laboratory, was accepted by *Water Resources Research* and is now officially published at [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053)].
+In this paper, we summarized the current gaps in Arctic river temperature predictions, presented a robust LSTM river temperature model without considering streamflow, and enhanced the interpretability of LSTM using Integrated Gradients.
+
+[Feb 2025] I was awraded the AGU'24 Outstanding Student Presentation Award (OSPA). Checkout our paper here ~ [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053)] 🥳
 
 <a href="https://doi.org/10.1029/2024WR039053"><img src="../files/image2.png" alt="AGU2024 Alaska River Temperature Talk"      width="400"     title="Alaska River Temperature Talk @ AGU 2024"/><img src="../files/IMG19089.jpeg" alt="AGU2024 Alaska River Temperature Talk Presentation"      width="330"     title="Alaska River Temperature Presentation @ AGU 2024"/></a>
 
