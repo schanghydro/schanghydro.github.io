@@ -20,9 +20,7 @@ In my research, I strive to produce datasets and develop both process-based mode
 [May 2025] The work I led with my mentors, Kurt and Jon, during my Applied Machine Learning Internship at Los Alamos National Laboratory, was accepted by *Water Resources Research* and is now officially published at [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053)].
 In this paper, we summarized the current gaps in Arctic river temperature predictions, presented a robust LSTM river temperature model without considering streamflow, and enhanced the interpretability of LSTM using Integrated Gradients.
 
-[Feb 2025] I was awraded the AGU'24 Outstanding Student Presentation Award (OSPA). Checkout our paper here ~ [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053)] 🥳
-
-<a href="https://doi.org/10.1029/2024WR039053"><img src="../files/image2.png" alt="AGU2024 Alaska River Temperature Talk"      width="400"     title="Alaska River Temperature Talk @ AGU 2024"/><img src="../files/IMG19089.jpeg" alt="AGU2024 Alaska River Temperature Talk Presentation"      width="330"     title="Alaska River Temperature Presentation @ AGU 2024"/></a>
+[Feb 2025] I was awraded the AGU'24 Outstanding Student Presentation Award (OSPA).
 
 [Feb 2025] I attended and delivered a talk in Chesapeake Bay AI/ML Workshop at the Smithsonian Environmental Research Center (SERC).
 
