@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shuyu, a postdoc in the Department of Earth and Environment at Franklin & Marshall College.
-Before joining F&M, I was a NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow and obtained my PhD in Geography from Penn State.
-I obtained my MSE in Water Resources Engineering from Johns Hopkins University and BS in Hydraulic and Hydropower Engineering with Highest Honours from the China Agricultural University. Here is my [CV](https://schanghydro.github.io/files/chang-cv.pdf). 
+Hi! I'm Shuyu, a postdoc in the Department of Earth and Environment at Franklin & Marshall College, working with Drs. Dorothy Merritts and Bob Walter.
+Before joining F&M, I was a NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow and obtained my PhD in Geography from Penn State, advised by Dr. Kimberly Van Meter.
+I also hold an MSE in Water Resources Engineering from Johns Hopkins University and BS in Hydraulic and Hydropower Engineering with Highest Honours from the China Agricultural University. Here is my [CV](https://schanghydro.github.io/files/chang-cv.pdf). 
 
-**I will join the Department of Earth Sciences at the University of Connecticut (UConn) in Fall 2026 as a tenure-track assistant professor.** Please stay tuned for more news!
+I will join the Department of Earth Sciences at the University of Connecticut (UConn) in Fall 2026 as a tenure-track assistant professor. Please stay tuned for prospective student opportinities.
 
 In my research, I strive to produce datasets and develop both process-based models and data-driven approaches to better quantify and enhance our understanding of the interactions and dynamics between hydrology and biogeochemistry, with the goal of supporting decision-making regarding water resources at various scales.
 
