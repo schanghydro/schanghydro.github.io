@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shuyu, a PhD candidate in Geography and NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow at the Pennsylvania State University, advised by [Dr. Kimberly Van Meter](https://www.geog.psu.edu/directory/kimberly-van-meter). I am expected to graduate in Summer 2025. Before my PhD study, I obtained my MSE in Water Resources Engineering from Johns Hopkins University and BS in Hydraulic and Hydropower Engineering with Highest Honours from the China Agricultural University. Here is my [CV](https://schanghydro.github.io/files/chang-cv.pdf).
+Hi! I'm Shuyu, a postdoc in the Department of Earth and Environment at Franklin & Marshall College.
+Before joining F&M, I was a NASA [FINESST](https://www.psu.edu/news/earth-and-mineral-sciences/story/geography-student-awarded-nasa-funding-study-harmful-algal-blooms) Graduate Research Fellow and obtained my PhD in Geography from Penn State.
+I obtained my MSE in Water Resources Engineering from Johns Hopkins University and BS in Hydraulic and Hydropower Engineering with Highest Honours from the China Agricultural University. Here is my [CV](https://schanghydro.github.io/files/chang-cv.pdf). 
+
+**I will join the Department of Earth Sciences at the University of Connecticut (UConn) in Fall 2026 as a tenure-track assistant professor.** Please stay tuned for more news!
 
 In my research, I strive to produce datasets and develop both process-based models and data-driven approaches to better quantify and enhance our understanding of the interactions and dynamics between hydrology and biogeochemistry, with the goal of supporting decision-making regarding water resources at various scales.
 
@@ -17,6 +21,10 @@ In my research, I strive to produce datasets and develop both process-based mode
 - **Chang, S. Y.**, Zhang, Q., Byrnes, D. K., Basu, N. B., & Van Meter, K. J. (2021). Chesapeake legacies: The importance of legacy nitrogen to improving Chesapeake Bay water quality. *Environmental Research Letters*, *16*(8), 085002.  [[DOI: 10.1088/1748-9326/ac0d7b](https://iopscience.iop.org/article/10.1088/1748-9326/ac0d7b)]
 
 ## News
+[Jul 2025] I joined the Department of Earth and Environment at Franklin & Marshall College as a postdoc scholar. Looking forward to the new chapters of research!
+
+[Jun 2025] I defended my PhD Dissertation! 🎓
+
 [May 2025] The work I led with my mentors, Kurt and Jon, during my Applied Machine Learning Internship at Los Alamos National Laboratory, was accepted by *Water Resources Research* and is now officially published at [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053)].
 In this paper, we summarized the current gaps in Arctic river temperature predictions, presented a robust LSTM river temperature model without considering streamflow, and enhanced the interpretability of LSTM using Integrated Gradients.
 
