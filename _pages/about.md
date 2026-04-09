@@ -17,6 +17,7 @@ I will join the [Department of Earth Sciences at the University of Connecticut (
 In my research, I strive to produce datasets and develop both process-based models and data-driven approaches to better quantify and enhance our understanding of the interactions and dynamics between hydrology and biogeochemistry, with the goal of supporting decision-making regarding water resources at various scales.
 
 ## Selected Publications
+- **Chang, S. Y.\***, Aboelyazeed, D.\*, Sawadekar, K., Chavada, D., Shen, C., Van Meter, K. J. (2026). A Community Dataset for Large-Scale River Nitrogen Modeling in the United States. *Scientific Data*. [[DOI: 10.1038/s41597-026-06873-5](https://doi.org/10.1038/s41597-026-06873-5)]
 - **Chang, S. Y.**, Schwenk, J., Solander, K. (2025). Deep Learning Advances Arctic River Water Temperature Predictions. *Water Resources Research*, *61*(6), 039053. [[DOI: 10.1029/2024WR039053](https://doi.org/10.1029/2024WR039053)]
 - **Chang, S. Y.**, Zhang, Q., Byrnes, D. K., Basu, N. B., & Van Meter, K. J. (2021). Chesapeake legacies: The importance of legacy nitrogen to improving Chesapeake Bay water quality. *Environmental Research Letters*, *16*(8), 085002.  [[DOI: 10.1088/1748-9326/ac0d7b](https://iopscience.iop.org/article/10.1088/1748-9326/ac0d7b)]
 
