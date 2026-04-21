@@ -12,7 +12,7 @@ All papers are available upon request
 
 - **Chang, S. Y.\***, Aboelyazeed, D.\*, Sawadekar, K., Chavada, D., Shen, C., Van Meter, K. J. (2026). A Community Dataset for Large-Scale River Nitrogen Modeling in the United States. *Scientific Data*. [[DOI: 10.1038/s41597-026-06873-5](https://doi.org/10.1038/s41597-026-06873-5)]
 
-- **Chang, S. Y.\***, Byrnes, D.K.\*, Basu, N. B., Van Meter, K. J. (2026). gTREND-Nitrogen - Long-term nitrogen mass balance data for the contiguous United States (1930-2017). *Scientific Data*. [[DOI: 10.1038/s41597-026-06576-x](https://doi.org/10.1038/s41597-026-06576-x)]
+- **Chang, S. Y.\***, Byrnes, D.K.\*, Basu, N. B., Van Meter, K. J. (2026). gTREND-Nitrogen - Long-term nitrogen mass balance data for the contiguous United States (1930-2017). *Scientific Data*, *13*, 562. [[DOI: 10.1038/s41597-026-06576-x](https://doi.org/10.1038/s41597-026-06576-x)]
 
 - Byrnes,  D.K.,  Van Meter, K. J., **Chang, S. Y.**, Basu, N.B. (2026) Balancing Legacy and Efficiency: Present and Historical Phosphorus Management Across the United States. *Global Biogeochemical Cycles*, *40*(4), e2025GB008893. [[DOI: 10.1029/2025GB008893](https://doi.org/10.1029/2025GB008893)]
 
