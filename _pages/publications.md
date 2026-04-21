@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=ramG_eYAAAAJ)  
+[Google Scholar](https://scholar.google.com/citations?user=9l6HKLsAAAAJ)  
 All papers are available upon request  
 *\*Indicates co-first authors*
 ## Journal Articles
